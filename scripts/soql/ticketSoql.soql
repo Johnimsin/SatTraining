@@ -1,0 +1,1 @@
+SELECT ID, Name, Status__c, subject__c, priorty
